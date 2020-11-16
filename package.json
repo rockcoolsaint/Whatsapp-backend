@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "description": "whatsapp clone backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Innocent Onyemaenu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "pusher": "^4.0.0"
+  }
+}
